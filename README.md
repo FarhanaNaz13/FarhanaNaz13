@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Java, python & javascript 
 - 💞️ I’m looking to collaborate on a renowned IT company 
-- 👩‍💻 Currently working as a trainee at Celloscope
+- 👩‍💻 Currently working at Celloscope
 - 📫 How to reach me 🤔 just mail 👉 📧 farhananaz.du@gmail.com
 
 <!---
